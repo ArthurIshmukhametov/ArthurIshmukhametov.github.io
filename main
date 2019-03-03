@@ -1,0 +1,8 @@
+<HTTP>
+  <HEAD>
+    ЗАГОЛОВОК
+  </HEAD>
+  <BODY>
+  <p>ТЕЛО</p>
+  </BODY>
+<HTTP>

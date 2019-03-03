@@ -2,6 +2,6 @@
 
 ## main page
 
-* hello *
+*hello*
 
-** hello **
+**hello**

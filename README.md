@@ -1,7 +1,12 @@
-# ArthurIshmukhametov
+# Типа вики
 
-## main page
+## Проект прошивки для сетевой части
 
-*hello*
+https://github.com/ArthurIshmukhametov/SendData
 
-**hello**
+## Подробно про пины
+
+[Гугл-таблица](https://docs.google.com/spreadsheets/d/11_U6-V5FjYy7RQ5oIxNFcRiRVcX_PyxQhD4kjq2rIR0/edit?usp=sharing)
+
+[Статья с пояснениями](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
+

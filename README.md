@@ -2,7 +2,7 @@
 
 ## Проект прошивки для сетевой части
 
-https://github.com/ArthurIshmukhametov/SendData
+[Репозиторий](https://github.com/ArthurIshmukhametov/SendData)
 
 ## Подробно про пины
 

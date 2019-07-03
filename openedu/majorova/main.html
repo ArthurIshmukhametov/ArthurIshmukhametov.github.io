@@ -1,0 +1,600 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if lte IE 9]><html class="ie ie9 lte9" lang="ru"><![endif]-->
+<!--[if !IE]><!--><html lang="ru"><!--<![endif]-->
+<head dir="ltr">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+  
+      <title>
+       BUSMAT О курсе | Национальная платформа открытого образования
+      </title>
+  
+
+      <script type="text/javascript">
+        /* immediately break out of an iframe if coming from the marketing website */
+        (function(window) {
+          if (window.location !== window.top.location) {
+            window.top.location = window.location;
+          }
+        })(this);
+      </script>
+
+  
+
+  <script type="text/javascript" src="https://cdn.openedu.ru/351a7d/js/i18n/ru/djangojs.458256e83169.js"></script>
+
+  <link rel="icon" type="image/x-icon" href="https://cdn.openedu.ru/351a7d/default/default/images/favicon.bd3d272022e9.ico" />
+
+  
+  
+
+    <link href="https://cdn.openedu.ru/351a7d/default/css/lms-style-vendor.4ccaa7f84216.css" rel="stylesheet" type="text/css" />
+
+
+
+  
+  
+
+    <link href="https://cdn.openedu.ru/351a7d/default/css/lms-main-v1.16802bc86d4d.css" rel="stylesheet" type="text/css" />
+
+
+
+
+      
+    <script type="text/javascript" src="https://cdn.openedu.ru/351a7d/default/js/lms-main_vendor.a04b73033169.js" charset="utf-8"></script>
+
+
+      
+    <script type="text/javascript" src="https://cdn.openedu.ru/351a7d/default/js/lms-application.258abdfb78ca.js" charset="utf-8"></script>
+
+
+
+  <script>
+    window.baseUrl = "https://cdn.openedu.ru/351a7d/";
+    (function (require) {
+      require.config({
+          baseUrl: window.baseUrl
+      });
+    }).call(this, require || RequireJS.require);
+  </script>
+  <script type="text/javascript" src="https://cdn.openedu.ru/351a7d/lms/js/require-config.cd72e66c1a3e.js"></script>
+  
+    <script type="text/javascript">
+        (function (require) {
+          require.config({
+              paths: {
+                'js/courseware/courseware_factory': 'js/courseware/courseware_factory.1504fc10caef',
+'draggabilly': 'js/vendor/draggabilly.26caba6f7187',
+'js/courseware/toggle_element_visibility': 'js/courseware/toggle_element_visibility.22ad04bb0497',
+'js/courseware/course_home_events': 'js/courseware/course_home_events.f9fa9db95688',
+'js/courseware/link_clicked_events': 'js/courseware/link_clicked_events',
+'moment': 'common/js/vendor/moment-with-locales.084396f4103c',
+'moment-timezone': 'common/js/vendor/moment-timezone-with-data.b062d5eadf09',
+'js/student_account/logistration_factory': 'js/student_account/logistration_factory.fefa851b3af9',
+'js/groups/views/cohorts_dashboard_factory': 'js/groups/views/cohorts_dashboard_factory.ab9136aa78e6',
+'js/dateutil_factory': 'js/dateutil_factory.f141a7899e5d',
+'course_bookmarks/js/views/bookmark_button': 'course_bookmarks/js/views/bookmark_button.ab6b0ad85d15',
+'js/courseware/accordion_events': 'js/courseware/accordion_events.6064c7809de5',
+'js/views/message_banner': 'js/views/message_banner.099aec538f98',
+'js/student_profile/views/learner_profile_factory': 'js/student_profile/views/learner_profile_factory.49278d75ab86'
+            }
+          });
+        }).call(this, require || RequireJS.require);
+    </script>
+  
+
+    
+    <script type="text/javascript" src="https://cdn.openedu.ru/351a7d/default/js/lms-modules.ea7f1ecbb601.js" charset="utf-8"></script>
+
+
+
+  
+
+  
+
+    <link href="https://cdn.openedu.ru/351a7d/default/css/lms-style-course-vendor.60799ae7d9f8.css" rel="stylesheet" type="text/css" />
+
+
+
+
+  
+
+    <link href="https://cdn.openedu.ru/351a7d/default/css/lms-course.26bbbd1a0efb.css" rel="stylesheet" type="text/css" />
+
+
+
+
+  
+
+  
+
+  
+
+
+  
+
+
+<!-- dummy Segment -->
+<script type="text/javascript">
+  var analytics = {
+    track: function() { return; },
+    trackLink: function() { return; },
+    pageview: function() { return; },
+    page: function() { return; }
+  };
+</script>
+<!-- end dummy Segment -->
+
+
+  <meta name="path_prefix" content="">
+  <meta name="google-site-verification" content="_mipQ4AtZQDNmbtOkwehQDOgCxUUV2fb_C0b6wbiRHY" />
+
+
+
+</head>
+
+<body class="ltr view-in-course view-course-info  lang_ru">
+
+
+<div id="page-prompt"></div>
+  <div class="window-wrap" dir="ltr">
+    <a class="nav-skip" href="#main">Перейти к основному содержимому</a>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+<header id="global-navigation" class="global-header header slim" >
+    <div class="container-fluid" aria-label="Глобально">
+      <div class="top-bar header__row">
+
+        <div class="header__dropdown-wrapper header__dropdown-main">
+            <div class="dropdown" id="siteMenu">
+              <span class="dropdown-toggle">
+                <div class="burger-icon">
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </div>
+              </span>
+              <ul class="dropdown-menu dropdown-menu-right" role="menu">
+                  <div class="header__search search-form search-form--mobile" style="display: none;">
+                    <form role="form" action="https://openedu.ru/course/" name="search" id="search-form" autocomplete="off">
+                    <div class="form-group">
+                        <span class="icon search-icon pull-right" id="search-icon"></span>
+                        <input type="submit" style="display: none;" value="Поиск в каталоге" class="btn btn-default">
+                        <input class="form-control" name="text" maxlength="255" id="search-form-text" placeholder="Search..."> </div>
+                    </form>
+                  </div>
+                  <li role="presentation">
+                    <a href="https://openedu.ru/course/">Каталог курсов</a>
+                  </li>
+                  <li role="presentation">
+                    <a href="https://openedu.ru/partners/apply/">Сотрудничество</a>
+                  </li>
+                  <li role="presentation">
+                    <a href="http://npoed.ru/about">О проекте</a>
+                  </li>
+                  <li role="presentation">
+                    <a href="https://openedu.ru/feedback">Помощь</a>
+                  </li>
+              </ul>
+            </div>
+        </div>
+        <div class="header__logo">
+          <a class="header__logo-link" href="/">
+            
+              <img class="header__logo-img" src="https://cdn.openedu.ru/351a7d/default/default/images/OpenEdXLogo.287e6752bd91.png" alt="Национальная платформа открытого образования"/>
+            
+          </a>
+        </div>
+        <nav class="header__nav">
+          <a class="header__nav-link" href="https://openedu.ru/course/">Каталог курсов</a>
+          <a class="header__nav-link" href="https://openedu.ru/partners/apply">Сотрудничество</a>
+          <a class="header__nav-link" href="http://npoed.ru/about">О проекте</a>
+        </nav>
+        <div class="header__search search-form search-form--desktop">
+          <form role="form" action="https://openedu.ru/course/" name="search" id="search-form" autocomplete="off">
+          <div class="form-group">
+              <span class="icon search-icon pull-right" id="search-icon"></span>
+              <input class="form-control" name="text" maxlength="255" id="search-form-text" placeholder="Поиск в каталоге"> </div>
+          </form>
+        </div>
+          <div class="header__dropdown-wrapper header__dropdown-login" id="sb_profile" style="z-index: 1000">
+              <div class="dropdown">
+                <span class="dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown">
+                  <span class="icon profile-icon"></span>
+                  <span class="dropdown-login__text">Мой профиль</span>
+                </span>
+                <ul class="dropdown-menu dropdown-menu-right" role="menu" aria-labelledby="dropdownMenu1">
+                  
+                    <li><a href="https://openedu.ru/my/">Мои курсы</a></li>
+                    <li><a href="https://sso.openedu.ru/profile/">Профиль</a></li>
+                  
+                  <li><a href="/social-logout" role="menuitem">Выйти</a></li>
+                </ul>
+              </div>
+
+              </div>
+          </div>
+      </div>
+    </div>
+</header>
+<!--[if lte IE 9]>
+<div class="ie-banner" aria-hidden="true"><strong>Warning:</strong> Your browser is not fully supported. We strongly recommend using <a href="https://www.google.com/chrome" target="_blank">Chrome</a> or <a href="http://www.mozilla.org/firefox" target="_blank">Firefox</a>.</div>
+<![endif]-->
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+    <div class="content-wrapper" id="content">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <script type="text/javascript" src="https://cdn.openedu.ru/351a7d/default/js/lms-proctoring.54e175463a40.js" charset="utf-8"></script>
+
+
+        <script type="text/template" id="proctored-exam-status-tpl">
+            <div class="exam-timer">
+    <%
+        function gtLtEscape(str) {
+            return String(str)
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+        }
+    %>
+    <div class='exam-text'>
+        <%= interpolate_text(gettext('You are taking "{exam_link}" as a {exam_type} exam. The timer on the right shows the time remaining in the exam.'), {exam_link: "<a href='" + exam_url_path + "'>"+gtLtEscape(exam_display_name)+"</a>", exam_type: (!_.isUndefined(arguments[0].exam_type)) ? exam_type : gettext('timed')}) %>
+        <%- gettext('To receive credit for problems, you must select "Submit" for each problem before you select "End My Exam".') %>
+    </div>
+    <div id="turn_in_exam_id" class="pull-right turn_in_exam">
+        <span>
+            <% if(attempt_status !== 'ready_to_submit') {%>
+                <button class="exam-button-turn-in-exam btn btn-pl-primary">
+                    <%- gettext("End My Exam") %>
+                </button>
+            <% } %>
+        </span>
+        <span class="sr timer-announce" aria-live="assertive"></span>
+        <span id="time_remaining_id">
+            <b>
+            </b>
+        </span>
+    </div>
+</div>
+
+        </script>
+    <div class="proctored_exam_status"></div>
+
+    <nav class="info wrapper-course-material" aria-label="Материалы курса">
+        <div class="course-material">
+            <div class="coursename-title hd-5">Технологии управления бизнесом (часть 1: Математические методы в экономике)</div>
+            
+            <ol class="tabs course-tabs">
+                
+
+
+
+
+
+  
+  <li class="tab">
+  <a href="main.html" class="active">
+  Главная страница
+      <span class="sr">, current location</span>
+  </a>
+  </li>
+  
+  <li class="tab">
+  <a href="curs.html" class="">
+  Курс
+  </a>
+  </li>
+  
+  <li class="tab">
+  <a href="timetable.html" class="">
+  Расписание
+  </a>
+  </li>
+  
+  <li class="tab">
+  <a href="Discus.html" class="">
+  Обсуждение
+  </a>
+  </li>
+  
+  <li class="tab">
+  <a href="progress.html" class="">
+  Прогресс
+  </a>
+  </li>
+  
+  <li class="tab">
+  <a href="/courses/course-v1:spbstu+BUSMAT+spring_2019/pdfbook/0/" class="">
+  К у з ь м е н к о в В. А. Математические методы и модели исследования операций. Параметрическая, многокритериальная и целочисленная опти-мизация: Учеб. пособие. – Изд. 2-е, перераб. и дополн. / В.А. Кузьменков, В.Н. Юрьев. – СПб.: Изд-во Политехн. ун-та, 2011. – 120 с.
+  </a>
+  </li>
+
+                
+            </ol>
+        </div>
+    </nav>
+
+
+
+  
+  <script type="text/javascript">
+    (function (require) {
+        require(['https://cdn.openedu.ru/351a7d/js/courseware/toggle_element_visibility.22ad04bb0497.js?raw'], function () {
+          require(['js/courseware/toggle_element_visibility'], function (ToggleElementVisibility) {
+            
+        ToggleElementVisibility();
+
+          });
+        });
+    }).call(this, require || RequireJS.require);
+  </script>
+
+
+  
+  <script type="text/javascript">
+    (function (require) {
+        require(['https://cdn.openedu.ru/351a7d/js/courseware/course_home_events.f9fa9db95688.js?raw'], function () {
+          require(['js/courseware/course_home_events'], function (CourseHomeEvents) {
+            
+        CourseHomeEvents();
+
+          });
+        });
+    }).call(this, require || RequireJS.require);
+  </script>
+
+
+
+
+
+
+<main id="main" aria-label="Content" tabindex="-1">
+    <div class="container">
+      <div class="home">
+        <div class="page-header-main">
+            <h2 class="hd hd-2 page-title">Добро пожаловать на курс &#39;Технологии управления бизнесом (часть 1: Математические методы в экономике)&#39;!
+            </h2>
+        </div>
+          <div class="page-header-secondary">
+              <a href="/courses/course-v1:spbstu+BUSMAT+spring_2019/courseware/547f77b1be0649f3af060b5b50b05b33/0c6fca7d95854da3ac82733004799e45/" class="last-accessed-link">Вернуться к курсу</a>
+          </div>
+      </div>
+      <div class="info-wrapper">
+        <section class="updates">
+
+
+          <h3 class="hd hd-3">Объявления и новости курса</h3>
+          <ol></ol>
+
+        </section>
+
+        <section aria-label="Навигация по наглядным материалам" class="handouts">
+
+                <h3 class="hd hd-3 handouts-header">Важные даты курса</h3>
+
+                    <div class="date-summary-container">
+                        <div class="date-summary date-summary-todays-date">
+                                    <span class="hd hd-4 heading localized-datetime" data-datetime="2019-06-16 20:46:11.250505+00:00" data-string="Сегодня {date}" data-timezone="Europe/Moscow" data-language="RU"></span>
+                        </div>
+                    </div>
+                    <div class="date-summary-container">
+                        <div class="date-summary date-summary-verified-upgrade-deadline">
+                                    <span class="hd hd-4 heading">Срок окончания приёма заявок на подтверждение данных</span>
+                                <p class="hd hd-4 date localized-datetime" data-format="shortDate" data-datetime="2029-12-22 00:00:00+00:00" data-timezone="Europe/Moscow" data-language="RU" data-string="в 11 лет - {date}"></p>
+                              <p class="description">Вы всё ещё можете получить подтверждённый сертификат! Продолжайте, чтобы показать знания и навыки, полученные в этом курсе.</p>
+                              <span class="date-summary-link">
+                                  <a href="/verify_student/upgrade/course-v1:spbstu+BUSMAT+spring_2019/">Повысить до уровня «Подтверждённый сертификат»</a>
+                              </span>
+                        </div>
+                    </div>
+                    <div class="date-summary-container">
+                        <div class="date-summary date-summary-end-date">
+                                    <span class="hd hd-4 heading">Курс завершится</span>
+                                <p class="hd hd-4 date localized-datetime" data-format="shortDate" data-datetime="2030-01-01 00:00:00+00:00" data-timezone="Europe/Moscow" data-language="RU" data-string="в 11 лет - {date}"></p>
+                              <p class="description">Для получения сертификата вам необходимо выполнить все требования к указанному сроку.</p>
+                        </div>
+                    </div>
+            <h3 class="hd hd-3  handouts-header">Дополнительные материалы</h3>
+            <ol></ol>
+        </section>
+      </div>
+  </div>
+</main>
+
+
+  
+  <script type="text/javascript">
+    (function (require) {
+        require(['https://cdn.openedu.ru/351a7d/js/dateutil_factory.f141a7899e5d.js?raw'], function () {
+          require(['js/dateutil_factory'], function (DateUtilFactory) {
+            
+    DateUtilFactory.transform(iterationKey=".localized-datetime");
+
+          });
+        });
+    }).call(this, require || RequireJS.require);
+  </script>
+
+
+      
+    </div>
+
+        
+
+
+
+
+
+<footer class="global-footer">
+  <div class="container-fluid">
+  <div class="row">
+      <div class="col-md-5  col-sm-12 side left-side">
+        <a href="https://openedu.ru" class="pull-left"><img src="https://cdn.openedu.ru/351a7d/default/default/images/logo-small.a2e576a818b3.png" alt="" class="logo-small"></a>
+        <ul class="list-unstyled">
+          <li><a href="https://openedu.ru/course">Каталог курсов</a></li>
+          <li><a href="https://openedu.ru/specialize">Направления подготовки</a></li>
+        </ul>
+      </div>
+      <div class="col-md-7 side right-side hidden-xs">
+        <div class="row">
+          <div class="col-md-5 col-sm-6">
+            <ul class="list-unstyled narrow">
+              <li><a href="http://npoed.ru/about">О проекте</a></li>
+              <li><a href="https://openedu.ru/faq/">Вопросы и ответы</a></li>
+            </ul>
+          </div>
+          <div class="col-md-7 col-sm-6">
+            <ul class="list-unstyled wide">
+              <li><a href="https://openedu.ru/terms/">Пользовательское соглашение</a></li>
+              <li><a href="https://openedu.ru/contacts">Контакты</a></li>
+              <li><a href="https://openedu.ru/feedback">Помощь</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-5 hidden-xs hidden-sm">
+        <a href="http://openedx.org" target="_blank" class="openedx-logo">
+          <img src="https://sso.openedu.ru/static/img/edx-openedx-logo-tag.png" width="150" height="50" alt="Powered by Open edX" />
+        </a>
+      </div>
+    </div>
+
+    <div class="row copyright">
+      <div class="col-xs-12 col-md-5 copyright__sign">
+        © 2018 Открытое Образование
+        <ul class="list-inline">
+          <li>
+            <a href="https://www.facebook.com/openeduRU" target="_blank" title="Группа Национальной платформы открытого образования в facebook">
+              <img src="https://cdn.openedu.ru/351a7d/default/default/images/fb.6819e839d3db.png">
+            </a>
+          </li>
+          <li>
+            <a href="https://vk.com/openeduRU" target="_blank" title="Группа Национальной платформы открытого образования во ВКонтакте">
+              <img src="https://cdn.openedu.ru/351a7d/default/default/images/vk.61bf9c82eeb9.png">
+            </a>
+          </li>
+          <li>
+            <a href="http://ok.ru/group/52786563514445" target="_blank" title="Группа Национальной платформы открытого образования в Одноклассниках">
+              <img src="https://cdn.openedu.ru/351a7d/default/default/images/ok.af6bc90aaca1.png">
+            </a>
+          </li>
+          <li>
+            <a href="https://instagram.com/openeduRU" target="_blank" title="Группа Национальной платформы открытого образования в Instagram">
+              <img src="https://cdn.openedu.ru/351a7d/default/default/images/inst.db679181d6ab.png">
+            </a>
+          </li>
+          <li>  
+            <a href="https://twitter.com/openeduRU" target="_blank" title="Страница Национальной платформы открытого образования в twitter">
+              <img src="https://cdn.openedu.ru/351a7d/default/default/images/tw.32b0bf3c1233.png">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  </footer>
+  <script type="text/javascript" >
+    $(function () {
+      var dropdown = $('.dropdown');
+      dropdown.click( function() {
+          $(this).toggleClass('open');
+      });
+      $('#search-form').submit(function (e) {
+        e.preventDefault();
+        e.stopPropagation();
+        window.location.href = this.action + '#query=' + $('#search-form-text').val();
+      });
+      $('#search-icon').click(function () {
+        $('#search-form').trigger('submit');
+      });
+      $('.header__dropdown-wrapper a').on('click', function() {
+        if($(this).attr('href') != null) {
+          window.location = $(this).attr('href');
+        }
+      })
+  });
+  </script>
+
+
+  </div>
+
+  
+  
+
+
+  
+
+
+
+  <script type="text/javascript" src="https://cdn.openedu.ru/351a7d/js/vendor/noreferrer.aa62a3e70ffa.js" charset="utf-8"></script>
+  <script type="text/javascript" src="https://cdn.openedu.ru/351a7d/js/utils/navigation.323bf3e1ae16.js" charset="utf-8"></script>
+  
+</body>
+</html>
+
+
+
+<!-- Performance beacon for onload times -->

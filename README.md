@@ -2,7 +2,7 @@
 
 ## contacts
 
-* tg: [@iamstook](tlgg.ru/iamstook)
+* tg: [@iamstook](https://tlgg.ru/iamstook)
 
 * vk: [iamstook](https://vk.com/iamstook)
 

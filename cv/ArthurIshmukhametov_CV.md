@@ -1,5 +1,13 @@
 # Ишмухаметов Артур Радикович
 
+![Arthur Ishmukhametov](cv/profile.jpeg)
+
+* tg: [@iamstook](https://tlgg.ru/iamstook)
+
+* vk: [iamstook](https://vk.com/iamstook)
+
+* git: [ArthurIshmukhametov](https://github.com/ArthurIshmukhametov)
+
 ## Образование
 
 *СПбПУ '2020*

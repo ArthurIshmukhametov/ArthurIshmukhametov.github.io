@@ -8,6 +8,8 @@
 
 * git: [ArthurIshmukhametov](https://github.com/ArthurIshmukhametov)
 
+aptyp1998@mail.ru
+
 ## Образование
 
 *СПбПУ '2020*

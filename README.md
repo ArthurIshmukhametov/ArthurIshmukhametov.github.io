@@ -13,5 +13,5 @@
 * bor wiki: [wiki](https://arthurishmukhametov.github.io/bor/wiki/main)
 
 * cv: 
-  * view (cv)[https://arthurishmukhametov.github.io/cv/ArthurIshmukhametov_CV]
-  * get pdf (pdf)
+  * view [cv](https://arthurishmukhametov.github.io/cv/ArthurIshmukhametov_CV)
+  * get [pdf](https://arthurishmukhametov.github.io/cv/cv.pdf)

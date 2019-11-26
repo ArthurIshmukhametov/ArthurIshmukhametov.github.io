@@ -13,19 +13,19 @@
 
 ## Много схем плат на esp32
 
-[NodeMCU_32S_V1.1.pdf](/esp32_schematic/NodeMCU_32S_V1.1.pdf)
+[NodeMCU_32S_V1.1.pdf](/bor/wiki/esp32_schematic/NodeMCU_32S_V1.1.pdf)
 
-[Schematic_bor-nodemcu-32_Expansion-Board_20190309095134.pdf](/esp32_schematic/Schematic_bor-nodemcu-32_Expansion-Board_20190309095134.pdf)
+[Schematic_bor-nodemcu-32_Expansion-Board_20190309095134.pdf](/bor/wiki//esp32_schematic/Schematic_bor-nodemcu-32_Expansion-Board_20190309095134.pdf)
 
-[Schematic_bor-nodemcu-32_Expansion-Board_20190309095333.pdf](/esp32_schematic/Schematic_bor-nodemcu-32_Expansion-Board_20190309095333.pdf)
+[Schematic_bor-nodemcu-32_Expansion-Board_20190309095333.pdf](/bor/wiki//esp32_schematic/Schematic_bor-nodemcu-32_Expansion-Board_20190309095333.pdf)
 
-[Schematic_bor-nodemcu-32_Expansion-Board_20190309125654.pdf](/esp32_schematic/Schematic_bor-nodemcu-32_Expansion-Board_20190309125654.pdf)
+[Schematic_bor-nodemcu-32_Expansion-Board_20190309125654.pdf](/bor/wiki//esp32_schematic/Schematic_bor-nodemcu-32_Expansion-Board_20190309125654.pdf)
 
-[esp32-audio-kit_v2.1-open_custom.pdf](/esp32_schematic/esp32-audio-kit_v2.1-open_custom.pdf)
+[esp32-audio-kit_v2.1-open_custom.pdf](/bor/wiki//esp32_schematic/esp32-audio-kit_v2.1-open_custom.pdf)
 
-[esp32_devkitc_v4-sch.pdf](/esp32_schematic/esp32_devkitc_v4-sch.pdf)
+[esp32_devkitc_v4-sch.pdf](/bor/wiki//esp32_schematic/esp32_devkitc_v4-sch.pdf)
 
-[NODEMCU 12](/esp32_schematic/nodemcu-devkit-v1.0-master/README.md)
+[NODEMCU 12](/bor/wiki//esp32_schematic/nodemcu-devkit-v1.0-master/README.md)
 
 ## /drive
 

@@ -1,5 +1,3 @@
-# Arthur Ishmukhametov
-
 ## contacts
 
 * tg: [@iamstook](https://tlgg.ru/iamstook)

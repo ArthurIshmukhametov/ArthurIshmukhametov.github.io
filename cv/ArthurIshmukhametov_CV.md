@@ -2,9 +2,9 @@
 
 ![Arthur Ishmukhametov](/cv/pic.jpg)
 
-* tg: [@iamstook](https://tlgg.ru/iamstook)
+* [tg](https://teleg.run/iamstook)
 
-* vk: [iamstook](https://vk.com/iamstook)
+* [linkedin](https://www.linkedin.com/in/arthur-ishmukhametov-2326b1199/)
 
 * git: [ArthurIshmukhametov](https://github.com/ArthurIshmukhametov)
 

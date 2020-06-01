@@ -1,6 +1,6 @@
 # Ишмухаметов Артур Радикович
 
-![Arthur Ishmukhametov](/cv/profile.jpg)
+![Arthur Ishmukhametov](/cv/pic.jpg)
 
 * tg: [@iamstook](https://tlgg.ru/iamstook)
 

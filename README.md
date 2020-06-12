@@ -7,4 +7,4 @@
 ## links
 * [cv](https://arthurishmukhametov.github.io/cv/ArthurIshmukhametov_CV)
   
-* bor wiki: [wiki](https://arthurishmukhametov.github.io/bor/wiki/main)
+* bor [wiki](https://arthurishmukhametov.github.io/bor/wiki/main)

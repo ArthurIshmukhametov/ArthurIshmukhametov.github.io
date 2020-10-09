@@ -38,6 +38,10 @@ stook1998@yandex.ru
 
 project managment, agile, analytics, business-analytics, sas eg, amplitude
 
+## Programming languages
+
+SQL, Python, C#
+
 **************************************
 
 ## Pet-projects:
@@ -69,10 +73,6 @@ project managment, agile, analytics, business-analytics, sas eg, amplitude
 
 
 **************************************
-
-## Programming languages
-
-SQL, Python, C#
 
 ## Languages
 

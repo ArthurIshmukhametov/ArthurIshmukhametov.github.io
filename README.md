@@ -8,5 +8,3 @@
 * [cv](https://arthurishmukhametov.github.io/cv/ArthurIshmukhametov_CV_en)
 
 * [cv (ru)](https://arthurishmukhametov.github.io/cv/ArthurIshmukhametov_CV)
-  
-* bor [wiki](https://arthurishmukhametov.github.io/bor/wiki/main)

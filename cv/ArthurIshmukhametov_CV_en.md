@@ -26,10 +26,12 @@ aptyp1998@gmail.com
 **Tinkoff**
 
 *2020 - present, Middle Analyst / Project Manager*
+
 Projects:
 - SSO (analyst->product owner)
 - Tinkoff ID (analyst->consultant)
 - Auth (project manager)
+
 Results:
 - drew up support processes in Authorization team
   - decreased time to resolve and ammount of customer requests

@@ -30,15 +30,15 @@ Results:
   - business and system documentation
  - Managed and implemented several "long-term construction" projects
   - over 50 microservices and 10 separate dev teams
-- Managed and implemented integration with auth provider in every business-lines
-  - over 50 integration 
+- Managed and implemented integration with auth provider in each business-lines
+  - over 50 integrations
 - Designed support processes in Authorization team
   - both internal and client support
   - decreased time to resolve and ammount of customer requests
   - covered processes with analytics
 - Designed business monitoring and alerting
 - Designed SMS-antispam
-- Mentored 4 junior analysts
+- Mentored 4 analysts
 - Implementrd Canban in back-end team
 
 **CRP lab (Center of Reactive Programming)**
@@ -86,7 +86,7 @@ project managment, agile, analytics, business-analytics, system-analytict
 
 ### PolyBoard
 
-**Internal university announcements**
+**University internal announcements board**
 
 *2017*
 

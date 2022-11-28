@@ -1,15 +1,8 @@
 # Arthur Ishmukhametov
 
-![Arthur Ishmukhametov](/cv/pic2.jpg =1000x)
-
-* tg: [@iamstook](https://teleg.run/iamstook)
-
+* tg: [@a_ishmukhametov](https://t.me/a_ishmukhametov)
 * linkedin: [arthur-ishmukhametov](https://www.linkedin.com/in/arthur-ishmukhametov-2326b1199/)
-
-* git: [ArthurIshmukhametov](https://github.com/ArthurIshmukhametov)
-
-stook1998@yandex.ru
-aptyp1998@gmail.com
+* stook1998@yandex.ru
 
 **************************************
 
@@ -17,7 +10,7 @@ aptyp1998@gmail.com
 
 *SPbSTU '2020*
 
-**Institute of Computer Science and Technology, School of Cyberphysical Systems and Control, "Project Management" department**, honors degree.
+**Institute of Computer Science and Technology, School of Cyberphysical Systems and Control**, honors degree.
 
 **************************************
 
@@ -25,24 +18,28 @@ aptyp1998@gmail.com
 
 **Tinkoff**
 
-*2020 - present, Middle Analyst / Project Manager*
+*2020 - present, Lead Analyst / Project Manager*
 
 Projects:
-- SSO (analyst->product owner)
-- Tinkoff ID (analyst->consultant)
-- Auth (project manager)
+- Single sign-on (analyst, product owner, project manager)
+- Tinkoff ID (analyst, consultant)
 
 Results:
-- drew up support processes in Authorization team
+- Implemented full-cycle analytics in product team:
+  - full-circle of data for product analytics, DDD, reports, A/B-testing
+  - business and system documentation
+ - Managed and implemented several "long-term construction" projects
+  - over 50 microservices and 10 separate dev teams
+- Managed and implemented integration with auth provider in every business-lines
+  - over 50 integration 
+- Designed support processes in Authorization team
+  - both internal and client support
   - decreased time to resolve and ammount of customer requests
   - covered processes with analytics
-- developed product analytics
-  - full life circle of data
-  - implemented DDD
-  - consulted analycs team
-- implemented several "long - term construction" projects, involved up to 10 teams
-- mentored 3 junior analysts
-- implementrd Canban in back-end team
+- Designed business monitoring and alerting
+- Designed SMS-antispam
+- Mentored 4 junior analysts
+- Implementrd Canban in back-end team
 
 **CRP lab (Center of Reactive Programming)**
 
@@ -53,11 +50,16 @@ Results:
 
 ## Professional skills
 
-project managment, agile, analytics, business-analytics
+project managment, agile, analytics, business-analytics, system-analytict
 
-## Programming languages
-
-SQL (postgres, clickhouse), Python, C#
+- Negotiating with business customers
+- Requirements engineering
+- Process and system modeling: bpmn, uml
+- SQL: postgresql (greenplum), clickhouse
+- Python (pandas, matplotlib)
+- Postman
+- Data Visualization
+- OAuth2.0, OpenID Connect 2.0, FiDo Alliance (UAF, U2F, FIDO2)
 
 **************************************
 
@@ -101,4 +103,4 @@ English: Upper Intermediate
 
 ## Interests
 
-FinTech, IoT(IIoT), Web
+FinTech, IoT(IIoT), Web, Security

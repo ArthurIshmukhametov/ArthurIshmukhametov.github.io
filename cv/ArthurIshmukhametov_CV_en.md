@@ -1,6 +1,6 @@
 # Arthur Ishmukhametov
 
-![Arthur Ishmukhametov](/cv/pic2.jpg)
+![Arthur Ishmukhametov](/cv/pic2.jpg =1000x)
 
 * tg: [@iamstook](https://teleg.run/iamstook)
 
